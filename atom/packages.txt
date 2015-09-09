@@ -1,0 +1,7 @@
+autocomplete-paths@1.0.2
+japanese-menu@1.4.0
+japanese-wrap@0.2.7
+minimap@4.13.3
+script@2.26.4
+term2@0.9.20
+
